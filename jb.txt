@@ -1,1 +1,1 @@
-class, hello there, Hello class
+hello there, Hello class
